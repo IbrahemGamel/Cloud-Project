@@ -22,3 +22,5 @@
 - [App Generator](https://appseed.us/generator/)
   - Timestamp: `2022-09-18 07:49`
 
+## [1.0] 15-05-2024
+## First and ig final release
